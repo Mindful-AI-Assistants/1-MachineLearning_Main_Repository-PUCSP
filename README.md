@@ -14,12 +14,12 @@ This is the **MAIN ML REPO** for all weekly classes, notes, Jupyter notebooks, c
 
 <br><br>
 
+Machine Learning Integrated Project - PUC-SP 5th Semester (2026) 🤖🧠
+Course Repo: PROJETO INTEGRADO: APRENDIZADO DE MÁQUINA
+Professor: Rooney Ribeiro Albuquerque Coelho
+Program: Data Science and Humanistic Artificial Intelligence
+Extensionist Activities: 10 hours (social projects with open-source software for community support)
 
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  
-[**School:**]() Faculty of Interdisciplinary Studies  
-[**Program:**]() Humanistic AI and Data Science
-[**Semester:**]() 2nd Semester 2025  
-Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
 
 <br><br>
 
