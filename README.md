@@ -72,11 +72,6 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 - **Seminar 2 (18 Jun 2026)**: Individual, weight 0.5. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
 Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuous evals.
 
-## Sub-Repositories
-Group related projects here (like last semester's Data Mining repo). Add links as created:  
-- [Project 1: CNN Image Classifier](https://github.com/yourusername/cnn-project)  
-- [Extensionist Social Project](https://github.com/yourusername/ml-social-extension)  
-*(Example from past: Data Mining repo had weekly tables + sub-repo links)*.
 
 ## How to Use This Repo
 1. Clone: `git clone https://github.com/yourusername/PUC-SP-ML-Integrated-Project-2026.git`.  
