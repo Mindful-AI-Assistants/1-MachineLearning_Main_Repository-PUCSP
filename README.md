@@ -12,8 +12,9 @@
 Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch/TensorFlow notebooks, CNN/RNN/GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
 
 
-<br><br>
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
+<br><br>
 
 
 ### Machine Learning Integrated Project - PUC-SP 5th Semester (2026)
@@ -54,7 +55,7 @@ Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes
 
 #
 
-<!--END-->
+<!--END Confidentiality statement -->
 
 
 <br><br><br>
@@ -70,16 +71,29 @@ Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes
 <br><br><br><br>  
 
 
-## What is Machine Learning? (Kid-Friendly Explanation) 🌈
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
+
+
+## What is Machine Learning? (Kid-Friendly Explanation) 
+
+<br>
+
 Imagine teaching a robot puppy to fetch a ball. You show it many examples (data), it tries, makes mistakes, and gets better each time – without you telling it every single step. That's Machine Learning (ML)! Computers learn patterns from data, like how kids learn by playing and trying.  
 
-**Key topics here:**  
+<br>
+
+### [**Key topics here:**()
+
+<br>
+
+
 - **Neural Networks**: Like a brain made of tiny math "neurons" connected together. They guess answers and fix mistakes automatically.  
 - **MLP (Multilayer Perceptron)**: A simple "brain" with layers – input (sees data), hidden (thinks), output (decides). Like stacking Lego blocks to solve puzzles.  
 - **CNN (Convolutional Neural Networks)**: Super for pictures! Spots edges, shapes, then faces – like your eyes scanning a photo. Great for cat vs. dog pics.  
 - **Frameworks**: PyTorch (fast on Apple M-series chips, feels like Python magic) and TensorFlow (Google's tool, runs anywhere). They build these "brains" without supercomputers.
 
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
+
 
 ## Table of Contents
 - [Course Objectives](#course-objectives)
