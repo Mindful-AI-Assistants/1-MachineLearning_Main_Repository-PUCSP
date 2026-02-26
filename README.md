@@ -11,7 +11,11 @@
  
 ### Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch / TensorFlow notebooks, CNN / RNN / GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
 
+
 <br><br>
+
+
+<!-- PUC HEADER GIF -->
 
 
 <p align="center">
@@ -76,16 +80,6 @@
 
 
 <br><br><br>
-
-
-
-<!-- PUC HEADER GIF -->
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
-
-
-<br><br><br><br>  
 
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
