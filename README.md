@@ -9,17 +9,17 @@
 #  <p align="center"> 1- 🧠 [Machine Learning]() / [Main Repository]()
 
 
-This is the **MAIN ML REPO** for all weekly classes, notes, Jupyter notebooks, code examples (PyTorch & TensorFlow), projects, and seminars. Organized by the official syllabus to house **every single weekly lesson** from February to June 2026. Future sub-repos (e.g., for specific projects) will link back here.
+Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch/TensorFlow notebooks, CNN/RNN/GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
 
 
 <br><br>
 
+
 Machine Learning Integrated Project - PUC-SP 5th Semester (2026)
 Course Repo: PROJETO INTEGRADO: APRENDIZADO DE MÁQUINA
 Professor: Rooney Ribeiro Albuquerque Coelho
-Program: Data Science and Humanistic Artificial Intelligence
-Extensionist Activities: 10 hours (social projects with open-source software for community support)
-
+Program: Data Science and Artificial Intelligence (Humanistic AI and Data Science)
+Extensionist Activities: 10 hours (social projects with open-source software for community support).
 
 <br><br>
 
