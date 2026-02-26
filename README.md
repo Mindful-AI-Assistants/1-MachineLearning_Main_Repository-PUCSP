@@ -8,15 +8,6 @@
 
 #  <p align="center"> 1- [Machine Learning]() / [Main Repository]()
 
-Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch/TensorFlow notebooks, CNN/RNN/GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-<br><br>
-
-
-# Machine Learning Integrated Project - PUC-SP 5th Semester (2026) 🤖🧠
-
 
 This is the **MAIN ML REPO** for all weekly classes, notes, Jupyter notebooks, code examples (PyTorch & TensorFlow), projects, and seminars. Organized by the official syllabus to house **every single weekly lesson** from February to June 2026. Future sub-repos (e.g., for specific projects) will link back here.
 
@@ -27,9 +18,9 @@ Imagine teaching a robot puppy to fetch a ball. You show it many examples (data)
 - **Neural Networks**: Like a brain made of tiny math "neurons" connected together. They guess answers and fix mistakes automatically.  
 - **MLP (Multilayer Perceptron)**: A simple "brain" with layers – input (sees data), hidden (thinks), output (decides). Like stacking Lego blocks to solve puzzles.  
 - **CNN (Convolutional Neural Networks)**: Super for pictures! Spots edges, shapes, then faces – like your eyes scanning a photo. Great for cat vs. dog pics.  
-- **Frameworks**: PyTorch (fast on Apple M-series chips, feels like Python magic) and TensorFlow (Google's tool, runs anywhere). They build these "brains" without supercomputers. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
+- **Frameworks**: PyTorch (fast on Apple M-series chips, feels like Python magic) and TensorFlow (Google's tool, runs anywhere). They build these "brains" without supercomputers.
 
-No need for Excel – ML learns on its own!
+<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 ## Table of Contents
 - [Course Objectives](#course-objectives)
