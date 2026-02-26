@@ -6,7 +6,7 @@
 <br><br>
 
 
-# #  <p align="center"> 1- [Machine Learning]() / [Main Repository]()
+#  <p align="center"> 1- [Machine Learning]() / [Main Repository]()
 
 Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch/TensorFlow notebooks, CNN/RNN/GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
 
