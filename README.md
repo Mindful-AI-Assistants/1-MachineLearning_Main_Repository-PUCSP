@@ -121,8 +121,9 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 ## Assessment
 
-- **Seminar 1 (16 Apr 2026)**: Individual, weight 0.5. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
-- **Seminar 2 (18 Jun 2026)**: Individual, weight 0.5. [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/27709701/4adbb447-9791-40cd-b7a9-7fa61628bcb5/1-PROGRAM-CONTENT.pdf)
+- **Seminar 1 (16 Apr 2026)**: Individual, weight 0.5. 
+- **Seminar 2 (18 Jun 2026)**: Individual, weight 0.5. 
+
 Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuous evals.
 
 
