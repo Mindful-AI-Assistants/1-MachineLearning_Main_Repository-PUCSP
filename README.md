@@ -135,6 +135,7 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 - [Grading & Assessment](#grading--assessment)
 - [Learning Resources](#learning-resources)
 - [Tooling Stack](#tooling-stack)
+- [Contributing Guidelines](#contributing-guidelines)
 - [Bibliographic References](#bibliographic-references)
 - [Sub-Repositories](#sub-repositories)
 - [How to Use This Repo](#how-to-use-this-repo)
