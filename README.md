@@ -14,19 +14,14 @@
 
 <br><br>
 
-<!-- CNN Video -->
 
 
-https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
-
-
-<!-- PUC HEADER GIF 
+<!-- PUC HEADER GIF -->
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
--->
 
 <br><br>
 
@@ -116,6 +111,17 @@ Imagine teaching a robot puppy to fetch a ball. You show it many examples (data)
 
 
 <br><br>
+
+
+<!-- CNN Video -->
+
+
+https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
+
+
+<br><br>
+
+
 
 ## Table of Contents
 
