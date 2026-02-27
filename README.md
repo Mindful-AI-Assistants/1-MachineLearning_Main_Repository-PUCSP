@@ -216,6 +216,21 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 <br><br>
 
 
+## [Folder Structure #folder-structure]()
+
+
+<br>
+
+/computer-vision/ ← CNN - Computer Vision
+/classic-nn/ ← MLP - Classic Neural Networks
+/sequential-data/ ← RNN - Sequential Data
+/data-generation/ ← GAN - Data Generation
+/projects/ ← Multi-architecture projects
+/notebooks/ ← Demo implementations
+
+
+<br><br>
+
 
 ## [Assessment]()
 
@@ -243,14 +258,6 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 [5.]() Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. [ppl-ai-file-upload.s3.amazonaws]
 
 
-<br><br>
-
-## [Professor Info]()
-
-
-<br>
-
-[**Rooney Ribeiro Albuquerque Coelho**]() – Expert in neural networks, PyTorch/TensorFlow, practical ML projects. Contact via PUC-SP. 
 
 
 <br><br>
