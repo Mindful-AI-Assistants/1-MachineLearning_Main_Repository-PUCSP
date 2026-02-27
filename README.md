@@ -255,9 +255,11 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 <br>
 
 - [**Seminar 1 (16 Apr 2026)**:]() Individual, weight 0.5. 
-- [**Seminar 2 (18 Jun 2026)**:]() Individual, weight 0.5. 
+- [**Seminar 2 (18 Jun 2026)**:]() Individual, weight 0.5.
 
-Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuous evals.
+<br>
+
+Methods: Dialogued lectures, [TF]() / [PyTorch]() projects, active methodologies, continuous evals.
 
 
 <br><br>
