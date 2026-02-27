@@ -16,9 +16,8 @@
 
 <!-- CNN Video -->
 
-<p align="center">
-   <img src="">
- </p>
+
+https://github.com/user-attachments/assets/28046748-379f-4584-bb34-cf88b6f7289f
 
 
 <!-- PUC HEADER GIF 
@@ -29,12 +28,10 @@
 
 -->
 
-
-
 <br><br>
 
 
-https://github.com/user-attachments/assets/28046748-379f-4584-bb34-cf88b6f7289f
+
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
