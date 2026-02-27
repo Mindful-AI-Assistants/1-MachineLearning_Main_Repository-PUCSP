@@ -127,6 +127,8 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 
 
 - [Course Objectives](#course-objectives)
+- [Course Overviews](#course-overviews) 
+- [Architecture Applications](#architecture-applications) 
 - [Weekly Classes](#weekly-classes)
 - [Assessment](#assessment)
 - [Bibliographic References](#bibliographic-references)
@@ -164,7 +166,7 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 <br><br>
 
 
-## [Architecture Applications]()  #architecture-applications
+## [Architecture Applications]()  
 
 | **Acronym** | **Full Name** | **Primary Application** | **Real-World Use** |
 |-------------|---------------|-------------------------|-------------------|
