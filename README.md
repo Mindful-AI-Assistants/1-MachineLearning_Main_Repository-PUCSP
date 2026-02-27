@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 
 
 - [Course Objectives](#course-objectives)
-- [Course Overviews](#course-overviews) 
+- [Core Learning Pillars](#core-learning-pillars)
 - [Architecture Applications](#architecture-applications) 
 - [Weekly Classes](#weekly-classes)
 - [Folder Structure](#folder-structure)
@@ -152,16 +152,16 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 
 
-## [Course Overviews]() 
+## Core Learning Pillars
 
 <br>
 
-| **Architecture** | **Complete Application** |
-|------------------|--------------------------|
-| **CNN** | **Computer Vision** |
-| **MLP** | **Classic Neural Networks** |
-| **RNN** | **Sequential Data** |
-| **GAN** | **Data Generation** |
+| Architecture | Application | Use Case |
+|--------------|-------------|----------|
+| **CNN** | Computer Vision | Images, Object Detection |
+| **MLP** | Classic Neural Networks | Tabular Data, Classification |
+| **RNN** | Sequential Data | Time Series, Text |
+| **GAN** | Data Generation | Synthetic Images, Augmentation |
 
 
 <br><br>
