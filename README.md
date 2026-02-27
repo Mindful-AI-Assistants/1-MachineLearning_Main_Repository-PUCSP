@@ -309,11 +309,27 @@ Methods: Dialogued lectures, [TF]() / [PyTorch]() projects, active methodologies
 ## [Tooling Stack]()
 
 
-
+<br>
 
 ```bash
 pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 ```
+
+
+<br><br>
+
+
+
+## [Contributing Guidelines]() 
+
+<br>
+
+
+1. Fork → Clone → Branch (feat/cnn-week3)
+2. Add notebooks to architecture folders
+3. Update weekly schedule table
+4. Submit PR with results
+
 
 
 
