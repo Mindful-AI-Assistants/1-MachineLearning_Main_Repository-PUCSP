@@ -126,7 +126,7 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 ## Table of Contents
 
 
-- [Course Objectives](#course-objectives)
+- [Course Overview](#course-overview)
 - [Core Learning Pillars](#core-learning-pillars)
 - [Architecture Applications](#architecture-applications) 
 - [Weekly Classes](#weekly-classes)
@@ -145,7 +145,7 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 <br><br>
 
 
-## [Course Objectives]()
+## [Course Overview]()
 
 <br>
 
@@ -156,7 +156,7 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 
 
-## Core Learning Pillars
+## [Core Learning Pillars]()
 
 <br>
 
