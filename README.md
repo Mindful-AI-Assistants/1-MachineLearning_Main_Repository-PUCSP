@@ -36,7 +36,7 @@
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP) <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING - 72 Hours <br>
 **Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 [Program:]() Data Science and Artificial Intelligence (Humanistic AI and Data Science)  <br>
 [Extensionist Activities:]() Social projects with open-source software for community support.  <br>
