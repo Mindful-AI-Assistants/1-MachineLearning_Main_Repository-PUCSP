@@ -138,7 +138,7 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 - [Tooling Stack](#tooling-stack)
 - [Contributing Guidelines](#contributing-guidelines)
 - [Bibliographic References](#bibliographic-references)
-- [Professor Info](#professor-info)
+- [Contact Me](#contact-me)
 
 
 <br><br>
